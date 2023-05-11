@@ -1,10 +1,7 @@
 /*
 *********************************************************************************************************
-*                                                uC/OS-II
-*                                          The Real-Time Kernel
 *
-*                           (c) Copyright 1992-2002, Jean J. Labrosse, Weston, FL
-*                                           All Rights Reserved
+*                           (c) Copyright 2022, Remigiusz Abramik, Szymon Abramik
 *
 *                                               EXAMPLE #1
 *********************************************************************************************************
